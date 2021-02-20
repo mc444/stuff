@@ -1,0 +1,9 @@
+Nummernsystem
+
+XYZA-UVW
+
+X - 1 allgemein, 2 N20, 3 N30, 4 N40, 5 N50/RQX, 6 N60
+Y - Drehlänge bzw. Spitzenweite nach WN100-6
+Z - 0 Drehma 2-achsig, 1 Drehma 4-achsig, 3 BAZ, 7 CM, 9 TB
+A - R Reitstockoption, ...
+UVW - laufende Nr., ab U = 1 neues System mit Basiskonfiguration
